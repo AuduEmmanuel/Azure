@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Audu-Manny'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_273AEB767235490B9865D95E395AC1C9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBC37A6836A1436F9165422133589146 }}
